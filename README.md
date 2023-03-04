@@ -15,6 +15,7 @@
 [Project Link](https://github.com/100daysofdevops/100daysofdevops)
 
 # AWS
+<img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
 ## Day 1-Introduction to CloudWatch Metrics
 https://medium.com/faun/100-days-of-devops-day-1-introduction-to-cloudwatch-metrics-b04be36307a8
 
