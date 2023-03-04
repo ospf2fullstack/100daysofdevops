@@ -1,34 +1,48 @@
-# 100daysofdevops 
+- [100 Days of DevOps](#100-days-of-devops)
+- [AWS](#aws)
+  - [Day 1-Introduction to CloudWatch Metrics](#day-1-introduction-to-cloudwatch-metrics)
+  - [Day 2-Introduction to Simple Notification Service(SNS)](#day-2-introduction-to-simple-notification-servicesns)
+  - [Day 3-Introduction to CloudTrail](#day-3-introduction-to-cloudtrail)
+  - [Day 4-CloudWatch log agent Installation — Centos7](#day-4-cloudwatch-log-agent-installation--centos7)
+  - [Day 5-CloudWatch to Slack Notification](#day-5-cloudwatch-to-slack-notification)
+  - [Day 6-CloudWatch Logs(Metric Filters)](#day-6-cloudwatch-logsmetric-filters)
+  - [Day 7-AWS S3 Event](#day-7-aws-s3-event)
+  - [Day 8-Introduction to AWS Security Token Service(STS)](#day-8-introduction-to-aws-security-token-servicests)
+  - [Day 9-Delegate Access Across AWS Accounts Using IAM Roles](#day-9-delegate-access-across-aws-accounts-using-iam-roles)
+  - [Day 10- Restricting User to Launch only T2 Instance](#day-10--restricting-user-to-launch-only-t2-instance)
 
-#AWS
-Day 1-Introduction to CloudWatch Metrics
+# 100 Days of DevOps 
+[Project Link](https://github.com/100daysofdevops/100daysofdevops)
+
+# AWS
+## Day 1-Introduction to CloudWatch Metrics
 https://medium.com/faun/100-days-of-devops-day-1-introduction-to-cloudwatch-metrics-b04be36307a8
 
-Day 2-Introduction to Simple Notification Service(SNS)
+## Day 2-Introduction to Simple Notification Service(SNS)
 https://medium.com/@devopslearning/100-days-of-devops-day-2-introduction-to-simple-notification-service-sns-97137b2f1f1e
 
-Day 3-Introduction to CloudTrail
+## Day 3-Introduction to CloudTrail
 https://medium.com/@devopslearning/100-days-of-devops-day-3-introduction-to-cloudtrail-5ce923f44584
 
-Day 4-CloudWatch log agent Installation — Centos7
+## Day 4-CloudWatch log agent Installation — Centos7
 https://medium.com/@devopslearning/100-days-of-devops-day-4-cloudwatch-log-agent-installation-centos7-d11054fffdf4
 
-Day 5-CloudWatch to Slack Notification
+## Day 5-CloudWatch to Slack Notification
 https://medium.com/@devopslearning/100-days-of-devops-day-5-cloudwatch-to-slack-notification-d2d84a192bf2
 
-Day 6-CloudWatch Logs(Metric Filters)
+## Day 6-CloudWatch Logs(Metric Filters)
 https://medium.com/@devopslearning/100-days-of-devops-day-6-cloudwatch-logs-metric-filters-94c572cc241
 
-Day 7-AWS S3 Event
+## Day 7-AWS S3 Event
 https://medium.com/@devopslearning/100-days-of-devops-day-7-aws-s3-event-cf64c6699ca1
 
-Day 8-Introduction to AWS Security Token Service(STS)
+## Day 8-Introduction to AWS Security Token Service(STS)
 https://medium.com/faun/100-days-of-devops-day-8-introduction-to-aws-security-token-service-sts-b0f164e5d6a3
 
-Day 9-Delegate Access Across AWS Accounts Using IAM Roles
+## Day 9-Delegate Access Across AWS Accounts Using IAM Roles
 https://medium.com/@devopslearning/100-days-of-devops-day-9-delegate-access-across-aws-accounts-using-iam-roles-b7898b15ed3d
 
-Day 10- Restricting User to Launch only T2 Instance
+## Day 10- Restricting User to Launch only T2 Instance
 https://medium.com/faun/100-days-of-devops-day-10-restricting-user-to-launch-only-t2-instance-509aaaec5aa2
 
 Day 11- Restricting S3 Bucket Access to Specific IP Addresses
