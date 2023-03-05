@@ -1,5 +1,8 @@
-- [100 Days of DevOps](#100-days-of-devops)
+# AWS
+<img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
+
 - [AWS](#aws)
+- [100 Days of DevOps](#100-days-of-devops)
   - [Day 1-Introduction to CloudWatch Metrics](#day-1-introduction-to-cloudwatch-metrics)
   - [Day 3-Introduction to CloudTrail](#day-3-introduction-to-cloudtrail)
   - [Day 4-CloudWatch log agent Installation — Centos7](#day-4-cloudwatch-log-agent-installation--centos7)
@@ -101,9 +104,6 @@
 
 # 100 Days of DevOps 
 [Project Link](https://github.com/100daysofdevops/100daysofdevops)
-
-# AWS
-<img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
 
 ## Day 1-Introduction to CloudWatch Metrics
 https://medium.com/@devopslearning/100-days-of-devops-day-2-introduction-to-simple-notification-service-sns-97137b2f1f1e
